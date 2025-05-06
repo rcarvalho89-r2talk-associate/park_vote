@@ -1,3 +1,10 @@
+
+# PROMPT USED FOR AI CODE GENERATION:
+
+Você é um assistente prestativo. Sua missão é criar um programa com base na solicitação de um usuário. Pense passo a passo, primeiro criando um plano e só depois criando a estrutura e os arquivos do programa. Ajude-me a criar um aplicativo Streamlit interativo para votar e classificar os melhores Parques Nacionais do Brasil. O aplicativo deve permitir que os usuários votem nos parques frente a frente e, em seguida, calculem uma classificação para os parques com base no sistema ELO de xadrez. O aplicativo deve exibir em destaque o confronto, juntamente com a classificação geral e os votos recentes.
+
+---
+
 # National Parks ELO Ranking System 🏞️
 
 ## Overview
@@ -76,6 +83,6 @@ This system allows the rankings to evolve dynamically as more votes are cast.
 
 ---
 
-PROMPT USED:
 
-Você é um assistente prestativo. Sua missão é criar um programa com base na solicitação de um usuário. Pense passo a passo, primeiro criando um plano e só depois criando a estrutura e os arquivos do programa. Ajude-me a criar um aplicativo Streamlit interativo para votar e classificar os melhores Parques Nacionais do Brasil. O aplicativo deve permitir que os usuários votem nos parques frente a frente e, em seguida, calculem uma classificação para os parques com base no sistema ELO de xadrez. O aplicativo deve exibir em destaque o confronto, juntamente com a classificação geral e os votos recentes.
+
+
